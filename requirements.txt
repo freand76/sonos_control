@@ -1,0 +1,3 @@
+soco
+requests
+meross_iot
