@@ -29,7 +29,7 @@ def changePlugState(state):
         return;
 
     manager.start()
-    plug = manager.get_device_by_name('Luxman')
+    plug = manager.get_device_by_name('Stereo')
     if plug == None:
         return
     
